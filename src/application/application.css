@@ -1,0 +1,27 @@
+
+.btn1{
+	-fx-background-color: #00a5ff;
+}
+
+.btn1:hover{
+	-fx-background-color:ff895e;
+	
+}
+
+.btn2{
+	-fx-background-color:  #00CC7A;
+}
+
+.btn2:hover{
+	-fx-background-color:ff895e;
+	
+}
+
+.btn3{
+	-fx-background-color: #00a5ff;
+}
+
+.btn3:hover{
+	-fx-background-color:ff895e;
+	
+}
